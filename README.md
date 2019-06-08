@@ -1,2 +1,2 @@
 # LINE_Notify
-Trying my hand at LINE Notify
+Useful module when using LINE Notify
